@@ -3,7 +3,6 @@
 * HTML / CSS / JS _( Front-End )_
 * NodeJS _( Back-End )_
 * MySQL _( Database )_
-* Docker
 
 We have some pages for this project :
 
